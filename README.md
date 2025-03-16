@@ -1,4 +1,4 @@
-The decrypter is designed to work with the offline encrypter [https://github.com/XORBKPT/Encryption-AES-R-Pi-Pico](https://github.com/XORBKPT/Encryption-AES-R-Pi-Pico), assuming it uses the same AES-256 in CBC mode.
+The decrypter is designed to work with the offline encrypter [https://github.com/XORBKPT/Encryption-AES-R-Pi-Pico](https://github.com/XORBKPT/Encryption-AES-R-Pi-Pico), using the same AES-256 in CBC mode.
 ---
 ## Decrypter Code (`decrypter.py`)
 
