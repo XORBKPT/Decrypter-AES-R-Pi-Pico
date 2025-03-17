@@ -240,9 +240,5 @@ Here’s what the code does, step by step:
 - Try encrypting your own message with the encrypter (if you have it) and decrypt it.
 - Discuss how to safely share keys in real life (hint: not hardcoded).
 
-Happy decrypting!
 ```
 
----
-
-This solution provides a standalone Pico decrypter that aligns with the assumed behavior of the offline encrypter, complete with full code, minimal dependencies, and a detailed README to guide beginners through setup, usage, and understanding. The code is robust with error handling, and the README is structured to be engaging and educational.
